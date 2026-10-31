@@ -1,0 +1,8 @@
+Arun,45,C
+Bhavna,30,N
+Charan,60,C
+Deepa,25,N
+Eswar,52,N
+Farah,200,N
+Gita,abc,N
+Hari,40,X
